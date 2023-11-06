@@ -1,1 +1,1 @@
-# .github
+# REVITE team
